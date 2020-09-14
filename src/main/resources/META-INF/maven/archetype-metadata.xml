@@ -10,4 +10,9 @@
       <directory/>
     </fileSet>
   </fileSets>
+  <requiredProperties>
+    <requiredProperty key="kieVersion">
+      <defaultValue>7.43.0.Final</defaultValue>
+    </requiredProperty>
+  </requiredProperties>
 </archetype-descriptor>
